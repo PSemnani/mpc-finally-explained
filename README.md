@@ -37,13 +37,6 @@ The interactive figures are shared between both.
 
 ---
 
-## Built with
-
-Single HTML file · Vanilla JS · SVG · Canvas · No frameworks · No build step  
-GP posterior computed in-browser (SE kernel + Gaussian elimination)
-
----
-
 ## Cite
 
 Semnani, P. (2026). *MPC Finally Explained: An Interactive Visual Guide
